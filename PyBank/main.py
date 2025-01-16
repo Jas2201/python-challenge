@@ -1,5 +1,4 @@
 import os
-
 import csv
 
 # File path to the dataset
