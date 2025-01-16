@@ -1,3 +1,4 @@
+# Import necessary modules
 import os
 import csv
 
@@ -59,7 +60,7 @@ with open(file_path, mode='r') as file:
 
             # Update previous profit
             previous_profit = profit
-
+#printing for Skipping row with invalid data
         except ValueError:
             print(f"Skipping row with invalid data: {row}")
 
