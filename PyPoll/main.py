@@ -1,6 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""PyPoll Homework Starter File."""
-
 # Import necessary modules
 import csv
 import os
@@ -9,8 +6,6 @@ import os
 
 input_file ="C:/Users/chara/Downloads/python-challenge/PyPoll/Resources/PyPoll.csv"
 output_file ="C:/Users/chara/Downloads/python-challenge/PyPoll/analysis/election_results.txt"
-#file_to_load = os.path.join("Resources", "election_data.csv")  # Input file path
-#file_to_output = os.path.join("analysis", "election_analysis.txt")  # Output file path
 
 # Initialize variables to track the election data
 
